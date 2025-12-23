@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-import { Box, Container, Toolbar } from '@mui/material';
+import { Box, Toolbar } from '@mui/material';
 
 import { Header } from './header';
 import { Sidebar } from './sidebar';
